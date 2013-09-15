@@ -1,0 +1,15 @@
+buildscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath "com.eriwen:gradle-js-plugin:${gradleJsPluginVersion}"
+	}
+}
+
+apply plugin: 'js'
+
+javascript.source {
+
+
+}
