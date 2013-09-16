@@ -1,0 +1,28 @@
+
+span.entryHeader {
+    font-weight:bold;
+}
+
+div.entryBody {
+    padding:5px;
+    border: 1px dashed #f2f2f2;
+}
+
+.blogStream {
+    padding:10px;
+}
+
+.adminContainer {
+    width:100%;
+    height:100%;
+}
+
+.adminContainer textarea {
+    width:100%;
+    height:100%;
+}
+
+.editor > * {
+    padding-top: 10px;
+}
+
